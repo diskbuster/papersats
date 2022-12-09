@@ -22,12 +22,12 @@ Printing the stickers can be done with a simple label printer that supports QR c
 
 The boltcard has security features to prevent copying it. To write the Tags you need a NFC DNA 424 capable writer.
 
-## The challenge
+## To Dos
 It takes some time and technical knowledge to handcraft and mange a bunch of PaperSats Cards.
 
-A consistent build process, should be supported by an script that adds a bulk of wallets to lnbits an enable the Boltcard and LNDhub URL extensions. With that, all the needed keys should in the lnbits database for further setup steps.
+1. A consistent build process, should be supported by a script that adds a bulk of wallets to lnbits an enable the Boltcard and LNDhub URL extensions. With that, all the needed keys should in the lnbits database for any further steps.
 
-A web app for checking the wallet balance and refill if needed should be reachable by scanning the QR code sticker.
+2. A web app for checking the wallet balance and refill if needed should be reachable by scanning the QR code sticker.
 
 This is a white paper under development and will be revised from time to time.
 
