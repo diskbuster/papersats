@@ -10,7 +10,7 @@ PaperSats Cards should be setup with:
 - QR Code Sticker to refill and balance check.
 - LNDhub Admin URL QR Sticker on the back, to let you port the Papersats Wallet to a digital device. This one is secured with an scratch sticker on top.
 
-## What is needed to be a bank that provides PaperSats?
+## What is needed to provide PaperSats Wallets?
 
 It is recommend to setup a Bitcoin lightning node, to have full control about any transaction.
 
