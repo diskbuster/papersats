@@ -1,6 +1,6 @@
 # Lightning Paperwallets for Bitcoin micropayments
 
-<img src="[https://papersats.io/papersats-card-mockup.png](https://papersats.io/papersats-card-mockup.png)">
+<img src="https://papersats.io/papersats-card-mockup.png">
 
 This project is about to build paperwallets for the Bitcoin Lightning Network. The idea is to support the spread of using Bitcoin Lightning at the point of sale and have a local analog wallet backup.
 
