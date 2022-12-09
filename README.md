@@ -10,7 +10,7 @@ PaperSats Cards should be setup with:
 - QR Code Sticker to refill and balance check.
 - LNDhub Admin URL QR Sticker on the back, to let you port the Papersats Wallet to a digital device. This one is secured with an scratch sticker on top.
 
-## What is needed to provide PaperSats Wallets?
+## What is needed to provide PaperSats?
 
 It is recommend to setup a Bitcoin lightning node, to have full control about any transaction.
 
@@ -25,8 +25,11 @@ The boltcard has security features to prevent copying it. To write the Tags you 
 ## The challenge
 It takes some time and technical knowledge to handcraft and mange a bunch of PaperSats Cards.
 
-A consistent build process, should be supported by an script that adds a bulk of wallets to lnbits an enable the Boltcard and LNDhub URL extensions.
-With that, all the needed keys should in the lnbits database for further setup steps.
+A consistent build process, should be supported by an script that adds a bulk of wallets to lnbits an enable the Boltcard and LNDhub URL extensions. With that, all the needed keys should in the lnbits database for further setup steps.
+
+A web app for checking the wallet balance and refill if needed should be reachable by scanning the QR code sticker.
+
+This is a white paper under development and will be revised from time to time.
 
 Thank you for reading and get in touch for participation.
 
