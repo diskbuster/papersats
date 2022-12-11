@@ -1,4 +1,4 @@
-# Lightning Paperwallets for Bitcoin micropayments
+#Paperwallets for Bitcoin Lightning micropayments
 
 <img src="https://papersats.io/papersats-card-mockup.png">
 
